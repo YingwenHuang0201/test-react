@@ -98,6 +98,9 @@ export default function Weather() {
           <div className="col">25°C</div>
         </div>
       </div>
+      <p>
+        <a href="https://github.com/YingwenHuang0201/test-react">Open-source</a> by YingwenHuang
+      </p>
     </div>
   );
 }
